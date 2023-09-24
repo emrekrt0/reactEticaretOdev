@@ -5,7 +5,7 @@ export let products = [
       product_brand:'Apple',
       product_category:'Elektronik',
       product_image : 'https://nw.ax/Mr6',
-      product_price:65.000 + '₺',
+      product_price: '65.000₺',
       stock:6,
     },
     {
@@ -14,7 +14,7 @@ export let products = [
       product_brand:'Apple',
       product_category:'Elektronik',
       product_image : 'https://gx.ax/Ts5',
-      product_price:75.000 + '₺',
+      product_price: '75.000 ₺',
       stock:1,
     },
     {
@@ -23,7 +23,7 @@ export let products = [
       product_brand:'Nvidia',
       product_category:'Elektronik',
       product_image : 'https://wx.ax/6Vo',
-      product_price:25.000 + '₺',
+      product_price: '25.000₺',
       stock:2,
     },
     {
@@ -32,7 +32,7 @@ export let products = [
       product_brand:'Apple',
       product_category:'Elektronik',
       product_image : 'https://nx.ax/n0Y',
-      product_price:5.000 +'₺',
+      product_price:'5.000₺',
       stock:23,
     },
     {
@@ -41,7 +41,7 @@ export let products = [
       product_brand:'Karayel',
       product_category:'Kişisel Bakım',
       product_image : 'https://sq.ax/4Qv',
-      product_price: 30 + '₺',
+      product_price: '30₺',
       stock:50,
     },
     {
@@ -50,7 +50,7 @@ export let products = [
       product_brand:'Lacoste',
       product_category:'Giyim',
       product_image : 'https://ft.ax/o8G',
-      product_price:2500 + '₺',
+      product_price:'2500₺',
       stock:5,
     }
   ];

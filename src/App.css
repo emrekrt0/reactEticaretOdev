@@ -30,11 +30,12 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 /* CSS Reset Bitis */
 
-#root {
+#root .content .products{
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  
 }
 
 .logo {
@@ -72,11 +73,11 @@ p, h1, h2, h3, h4, h5, h6 {
 .read-the-docs {
   color: #888;
 }
-.content {
+
+#root .products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 50px;
-  
 }
 #root .mainProduct {
   display: flex;
